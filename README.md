@@ -23,4 +23,4 @@ Implement Priority Queue ADT with binary heap
 
 Term Project:
 
-Doubly linked circular
+Implement Doubly linked List ADT
