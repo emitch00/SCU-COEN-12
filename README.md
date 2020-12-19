@@ -3,6 +3,7 @@ Cumulation of assignments and projects completed in COEN12
 
 Lab 1: Counting Words
   Count number of words in assorted text files
+
 Lab 2: Set ADT
 
 Lab 3: Hash ADT
