@@ -12,6 +12,4 @@ Lab 4: Linked Hash table
 
 Lab 5: Huffman Queue
 
-Lab 6: QuickSort
-
 Term Project:
